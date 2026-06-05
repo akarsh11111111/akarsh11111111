@@ -5,7 +5,7 @@
 ### 🚀 Software Engineer | Web Developer | DSA Specialist | Backend Engineer | Web3 Explorer  
 Building **scalable systems**, solving **hard problems**, and writing **clean, efficient code**.
 
-📍 India | 📧 vidyarthiakarsh@gmail.com  
+📍 India | 
 
 </div>
 
@@ -44,7 +44,7 @@ Building **scalable systems**, solving **hard problems**, and writing **clean, e
 
 ## 🌐 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-akarsh11111111-black?style=for-the-badge&logo=github)](https://github.com/akarsh11111111)
-[![Email](https://img.shields.io/badge/Email-vidyarthiakarsh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidyarthiakarsh@gmail.com)
+
 
 ---
 
