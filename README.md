@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://github.com/akarsh11111111"><img src="https://img.shields.io/badge/GitHub-akarsh11111111-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/akarsh-21217935b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
@@ -99,6 +99,13 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akarsh11111111&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 
+</div>
+
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" />
 </div>
 
 ---
